@@ -10,3 +10,5 @@ namespace AulasPCDev.Models
         public int QuantidadeDeOscars { get; set; }
     }
 }
+
+//.
