@@ -19,6 +19,7 @@ namespace AulasPCDev.Models
             // olhar a minha biblioteca
             // pegar a quantidade de itens
             // fazer um incremento na quantidade de itens da minha biblioteca
+            //.
 
             List<Item> itens = Armazenamento.Biblioteca;
             int quantidadeDeItens = 1000 + itens.Count;
