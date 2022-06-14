@@ -6,6 +6,6 @@ namespace Locadora.ViewModel
 {
     public class SerieViewModel
     {
-        public string Titulo { get; set; }
+        public string Titulo { get; set; }}
     }
 }
