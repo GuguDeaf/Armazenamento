@@ -6,7 +6,7 @@ using System.Text;
 
 namespace AulasPCDev.Services
 {
-    public class UsuarioServices
+    public class UsuarioServices//
     {
         private static List<Usuario> _listaUsuarios = Armazenamento.Usuarios;
 
